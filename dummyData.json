@@ -1,27 +1,122 @@
 [
   {
+    "id": 1,
     "name": "Milk",
     "store": "SuperMart",
     "price": 10
   },
   {
+    "id": 2,
     "name": "Bread",
     "store": "Bakery Corner",
     "price": 15
   },
   {
+    "id": 3,
     "name": "Eggs",
     "store": "FreshFarm",
     "price": 20
   },
   {
+    "id": 4,
     "name": "Apples",
     "store": "Fruit Haven",
     "price": 25
   },
   {
+    "id": 5,
     "name": "Chicken",
     "store": "Meat Master",
     "price": 50
+  },
+  {
+    "id": 6,
+    "name": "Butter",
+    "store": "SuperMart",
+    "price": 30
+  },
+  {
+    "id": 7,
+    "name": "Cheese",
+    "store": "SuperMart",
+    "price": 40
+  },
+  {
+    "id": 8,
+    "name": "Oranges",
+    "store": "Fruit Haven",
+    "price": 15
+  },
+  {
+    "id": 9,
+    "name": "Bananas",
+    "store": "Fruit Haven",
+    "price": 20
+  },
+  {
+    "id": 10,
+    "name": "Pork",
+    "store": "Meat Master",
+    "price": 40
+  },
+  {
+    "id": 11,
+    "name": "Salmon",
+    "store": "Meat Master",
+    "price": 60
+  },
+  {
+    "id": 12,
+    "name": "Lettuce",
+    "store": "FreshFarm",
+    "price": 5
+  },
+  {
+    "id": 13,
+    "name": "Tomatoes",
+    "store": "FreshFarm",
+    "price": 10
+  },
+  {
+    "id": 14,
+    "name": "Cucumbers",
+    "store": "FreshFarm",
+    "price": 5
+  },
+  {
+    "id": 15,
+    "name": "Carrots",
+    "store": "FreshFarm",
+    "price": 5
+  },
+  {
+    "id": 16,
+    "name": "Potatoes",
+    "store": "FreshFarm",
+    "price": 10
+  },
+  {
+    "id": 17,
+    "name": "Pasta",
+    "store": "Bakery Corner",
+    "price": 20
+  },
+  {
+    "id": 18,
+    "name": "Rice",
+    "store": "Bakery Corner",
+    "price": 30
+  },
+  {
+    "id": 19,
+    "name": "Flour",
+    "store": "Bakery Corner",
+    "price": 10
+  },
+  {
+    "id": 20,
+    "name": "Sugar",
+    "store": "Bakery Corner",
+    "price": 10
   }
 ]
